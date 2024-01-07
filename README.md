@@ -10,4 +10,4 @@ Este projeto foi conduzido com o propósito de realizar uma análise dos incênd
 ![Mapa de Incêndios Florestais no Brasil](mapa.png)
 
 ## Como Visualizar o Codigo?
-Basta clicar no arquivo "incendios-florestais.ipynb irá abrir uma versão web do notebook onde estão os codigos, o mapa não é visivel na versão web.
+Basta clicar no arquivo "incendios-florestais.ipynb" irá abrir uma versão web do notebook onde estão os codigos, o mapa não é visivel na versão web.
